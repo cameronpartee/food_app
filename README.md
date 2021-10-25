@@ -1,6 +1,4 @@
-# food_app
-
-# Key Concepts
+# Food Ordering App
 
 - Modal viewd as portals
 - Building components
